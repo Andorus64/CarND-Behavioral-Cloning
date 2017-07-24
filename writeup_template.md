@@ -99,6 +99,7 @@ The left side
 ![alt text][image2]
 
 The right side
+
 ![alt text][image3]
 
 To augment the data sat, I also flipped images thinking that this would create symmetry so that the car does not favor either side. For example, here is an image that has then been flipped:
