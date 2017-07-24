@@ -13,8 +13,8 @@ The goals / steps of this project are the following:
 [image1]: ./examples/center.png "Centered Driving"
 [image2]: ./examples/left.png "Left Side Recovery"
 [image3]: ./examples/right.png "Right Side Recovery"
-[image4]: ./examples/camera.png "Normal Image"
-[image5]: ./examples/flip.png "Flipped Image"
+[image4]: ./examples/camera.jpg "Normal Image"
+[image5]: ./examples/flip.jpg "Flipped Image"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
