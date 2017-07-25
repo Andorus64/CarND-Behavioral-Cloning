@@ -128,7 +128,7 @@ To capture good driving behavior, I first recorded four laps on track one using 
 
 ![alt text][image1]
 
-I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to .... These images show what a recovery looks like starting from:
+I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to return to the center if it makes a turn too sharp. These images show what a recovery looks like starting from:
 
 The left side
 
